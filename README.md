@@ -1,1 +1,1 @@
-Api feita para ser utilizada em sistemas sistemas financeiros
+Api feita para ser utilizada em sistemas financeiros
